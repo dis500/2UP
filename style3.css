@@ -1,0 +1,24 @@
+.container{
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 620px;
+  height: 320px;
+  margin: 0 auto;
+  background-color: red;
+}
+
+.container__item{
+  margin: 5px;
+  width: 300px;
+  height: 150px;
+  background-color: green;
+  border-radius
+}
+
+.container__item-small{
+  height: 70px;
+  order: 1;
+}
+
